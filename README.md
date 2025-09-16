@@ -1,2 +1,2 @@
-# DigitalClock
-A simple application of HTML and CSS
+# digitalclock
+Here's a demo to how a digital clock is made using simple HTML,CSS and Javascrit.
